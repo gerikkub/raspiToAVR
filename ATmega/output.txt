@@ -1,0 +1,574 @@
+In sync!
+parsing :100000000C9434000C943E000C943E000C943E0082
+
+Writing byte 940C to address 0
+High C
+Low 94
+Writing byte 34 to address 1
+High 34
+Low 0
+Writing byte 940C to address 2
+High C
+Low 94
+Writing byte 3E to address 3
+High 3E
+Low 0
+Writing byte 940C to address 4
+High C
+Low 94
+Writing byte 3E to address 5
+High 3E
+Low 0
+Writing byte 940C to address 6
+High C
+Low 94
+Writing byte 3E to address 7
+High 3E
+Low 0
+parsing :100010000C943E000C943E000C943E000C943E0068
+
+Writing byte 940C to address 8
+High C
+Low 94
+Writing byte 3E to address 9
+High 3E
+Low 0
+Writing byte 940C to address A
+High C
+Low 94
+Writing byte 3E to address B
+High 3E
+Low 0
+Writing byte 940C to address C
+High C
+Low 94
+Writing byte 3E to address D
+High 3E
+Low 0
+Writing byte 940C to address E
+High C
+Low 94
+Writing byte 3E to address F
+High 3E
+Low 0
+parsing :100020000C943E000C943E000C943E000C943E0058
+
+Writing byte 940C to address 10
+High C
+Low 94
+Writing byte 3E to address 11
+High 3E
+Low 0
+Writing byte 940C to address 12
+High C
+Low 94
+Writing byte 3E to address 13
+High 3E
+Low 0
+Writing byte 940C to address 14
+High C
+Low 94
+Writing byte 3E to address 15
+High 3E
+Low 0
+Writing byte 940C to address 16
+High C
+Low 94
+Writing byte 3E to address 17
+High 3E
+Low 0
+parsing :100030000C943E000C943E000C943E000C943E0048
+
+Writing byte 940C to address 18
+High C
+Low 94
+Writing byte 3E to address 19
+High 3E
+Low 0
+Writing byte 940C to address 1A
+High C
+Low 94
+Writing byte 3E to address 1B
+High 3E
+Low 0
+Writing byte 940C to address 1C
+High C
+Low 94
+Writing byte 3E to address 1D
+High 3E
+Low 0
+Writing byte 940C to address 1E
+High C
+Low 94
+Writing byte 3E to address 1F
+High 3E
+Low 0
+parsing :100040000C943E000C943E000C943E000C943E0038
+
+Writing byte 940C to address 20
+High C
+Low 94
+Writing byte 3E to address 21
+High 3E
+Low 0
+Writing byte 940C to address 22
+High C
+Low 94
+Writing byte 3E to address 23
+High 3E
+Low 0
+Writing byte 940C to address 24
+High C
+Low 94
+Writing byte 3E to address 25
+High 3E
+Low 0
+Writing byte 940C to address 26
+High C
+Low 94
+Writing byte 3E to address 27
+High 3E
+Low 0
+parsing :100050000C943E000C943E000C943E000C943E0028
+
+Writing byte 940C to address 28
+High C
+Low 94
+Writing byte 3E to address 29
+High 3E
+Low 0
+Writing byte 940C to address 2A
+High C
+Low 94
+Writing byte 3E to address 2B
+High 3E
+Low 0
+Writing byte 940C to address 2C
+High C
+Low 94
+Writing byte 3E to address 2D
+High 3E
+Low 0
+Writing byte 940C to address 2E
+High C
+Low 94
+Writing byte 3E to address 2F
+High 3E
+Low 0
+parsing :100060000C943E000C943E0011241FBECFEFD8E04C
+
+Writing byte 940C to address 30
+High C
+Low 94
+Writing byte 3E to address 31
+High 3E
+Low 0
+Writing byte 940C to address 32
+High C
+Low 94
+Writing byte 3E to address 33
+High 3E
+Low 0
+Writing byte 2411 to address 34
+High 11
+Low 24
+Writing byte BE1F to address 35
+High 1F
+Low BE
+Writing byte EFCF to address 36
+High CF
+Low EF
+Writing byte E0D8 to address 37
+High D8
+Low E0
+parsing :10007000DEBFCDBF0E946F000C9486000C94000080
+
+Writing byte BFDE to address 38
+High DE
+Low BF
+Writing byte BFCD to address 39
+High CD
+Low BF
+Writing byte 940E to address 3A
+High E
+Low 94
+Writing byte 6F to address 3B
+High 6F
+Low 0
+Writing byte 940C to address 3C
+High C
+Low 94
+Writing byte 86 to address 3D
+High 86
+Low 0
+Writing byte 940C to address 3E
+High C
+Low 94
+Writing byte 0 to address 3F
+High 0
+Low 0
+parsing :10008000CF93DF9300D000D000D0CDB7DEB79E83F2
+
+Writing byte 93CF to address 40
+High CF
+Low 93
+Writing byte 93DF to address 41
+High DF
+Low 93
+Writing byte D000 to address 42
+High 0
+Low D0
+Writing byte D000 to address 43
+High 0
+Low D0
+Writing byte D000 to address 44
+High 0
+Low D0
+Writing byte B7CD to address 45
+High CD
+Low B7
+Writing byte B7DE to address 46
+High DE
+Low B7
+Writing byte 839E to address 47
+High 9E
+Low 83
+parsing :100090008D831C821B8214C01A82198205C089813B
+
+Writing byte 838D to address 48
+High 8D
+Low 83
+Writing byte 821C to address 49
+High 1C
+Low 82
+Writing byte 821B to address 4A
+High 1B
+Low 82
+Writing byte C014 to address 4B
+High 14
+Low C0
+Writing byte 821A to address 4C
+High 1A
+Low 82
+Writing byte 8219 to address 4D
+High 19
+Low 82
+Writing byte C005 to address 4E
+High 5
+Low C0
+Writing byte 8189 to address 4F
+High 89
+Low 81
+parsing :1000A0009A8101969A83898329813A818D819E81E3
+
+Writing byte 819A to address 50
+High 9A
+Low 81
+Writing byte 9601 to address 51
+High 1
+Low 96
+Writing byte 839A to address 52
+High 9A
+Low 83
+Writing byte 8389 to address 53
+High 89
+Low 83
+Writing byte 8129 to address 54
+High 29
+Low 81
+Writing byte 813A to address 55
+High 3A
+Low 81
+Writing byte 818D to address 56
+High 8D
+Low 81
+Writing byte 819E to address 57
+High 9E
+Low 81
+parsing :1000B00028173907A4F38B819C8101969C838B833D
+
+Writing byte 1728 to address 58
+High 28
+Low 17
+Writing byte 739 to address 59
+High 39
+Low 7
+Writing byte F3A4 to address 5A
+High A4
+Low F3
+Writing byte 818B to address 5B
+High 8B
+Low 81
+Writing byte 819C to address 5C
+High 9C
+Low 81
+Writing byte 9601 to address 5D
+High 1
+Low 96
+Writing byte 839C to address 5E
+High 9C
+Low 83
+Writing byte 838B to address 5F
+High 8B
+Low 83
+parsing :1000C0008B819C81803127E2920734F326960FB60C
+
+Writing byte 818B to address 60
+High 8B
+Low 81
+Writing byte 819C to address 61
+High 9C
+Low 81
+Writing byte 3180 to address 62
+High 80
+Low 31
+Writing byte E227 to address 63
+High 27
+Low E2
+Writing byte 792 to address 64
+High 92
+Low 7
+Writing byte F334 to address 65
+High 34
+Low F3
+Writing byte 9626 to address 66
+High 26
+Low 96
+Writing byte B60F to address 67
+High F
+Low B6
+parsing :1000D000F894DEBF0FBECDBFDF91CF910895CF93CF
+
+Writing byte 94F8 to address 68
+High F8
+Low 94
+Writing byte BFDE to address 69
+High DE
+Low BF
+Writing byte BE0F to address 6A
+High F
+Low BE
+Writing byte BFCD to address 6B
+High CD
+Low BF
+Writing byte 91DF to address 6C
+High DF
+Low 91
+Writing byte 91CF to address 6D
+High CF
+Low 91
+Writing byte 9508 to address 6E
+High 8
+Low 95
+Writing byte 93CF to address 6F
+High CF
+Low 93
+parsing :1000E000DF93CDB7DEB78AE290E02FEFFC012083EB
+
+Writing byte 93DF to address 70
+High DF
+Low 93
+Writing byte B7CD to address 71
+High CD
+Low B7
+Writing byte B7DE to address 72
+High DE
+Low B7
+Writing byte E28A to address 73
+High 8A
+Low E2
+Writing byte E090 to address 74
+High 90
+Low E0
+Writing byte EF2F to address 75
+High 2F
+Low EF
+Writing byte 1FC to address 76
+High FC
+Low 1
+Writing byte 8320 to address 77
+High 20
+Low 83
+parsing :1000F0008BE290E02BE230E0F90120812095FC01B9
+
+Writing byte E28B to address 78
+High 8B
+Low E2
+Writing byte E090 to address 79
+High 90
+Low E0
+Writing byte E22B to address 7A
+High 2B
+Low E2
+Writing byte E030 to address 7B
+High 30
+Low E0
+Writing byte 1F9 to address 7C
+High F9
+Low 1
+Writing byte 8120 to address 7D
+High 20
+Low 81
+Writing byte 9520 to address 7E
+High 20
+Low 95
+Writing byte 1FC to address 7F
+High FC
+Low 1
+parsing :10010000208385E090E00E944000F2CFF894FFCF7A
+
+Writing byte 8320 to address 80
+High 20
+Low 83
+Writing byte E085 to address 81
+High 85
+Low E0
+Writing byte E090 to address 82
+High 90
+Low E0
+Writing byte 940E to address 83
+High E
+Low 94
+Writing byte 40 to address 84
+High 40
+Low 0
+Writing byte CFF2 to address 85
+High F2
+Low CF
+Writing byte 94F8 to address 86
+High F8
+Low 94
+Writing byte CFFF to address 87
+High FF
+Low CF
+parsing :00000001FF
+
+0: CFF
+1: 3434
+2: C0C
+3: 3E3E
+4: C0C
+5: 3E3E
+6: C0C
+7: 3E3E
+8: C0C
+9: 3E3E
+A: C0C
+B: 3E3E
+C: C0C
+D: 3E3E
+E: C0C
+F: 3E3E
+10: C0C
+11: 3E3E
+12: C0C
+13: 3E3E
+14: C0C
+15: 3E3E
+16: C0C
+17: 3E3E
+18: C0C
+19: 3E3E
+1A: C0C
+1B: 3E3E
+1C: C0C
+1D: 3E3E
+1E: C0C
+1F: 3E3E
+20: C0C
+21: 3E3E
+22: C0C
+23: 3E3E
+24: C0C
+25: 3E3E
+26: C0C
+27: 3E3E
+28: C0C
+29: 3E3E
+2A: C0C
+2B: 3E3E
+2C: C0C
+2D: 3E3E
+2E: C0C
+2F: 3E3E
+30: C0C
+31: 3E3E
+32: C0C
+33: 3E3E
+34: 1111
+35: 1F1F
+36: CFCF
+37: D8D8
+38: DEDE
+39: CDCD
+3A: E0E
+3B: 6F6F
+3C: C0C
+3D: 8686
+3E: C0C
+3F: 0
+40: CFCF
+41: DFDF
+42: 0
+43: 0
+44: 0
+45: CDCD
+46: DEDE
+47: 9E9E
+48: 8D8D
+49: 1C1C
+4A: 1B1B
+4B: 1414
+4C: 1A1A
+4D: 1919
+4E: 505
+4F: 8989
+50: 9A9A
+51: 101
+52: 9A9A
+53: 8989
+54: 2929
+55: 3A3A
+56: 8D8D
+57: 9E9E
+58: 2828
+59: 3939
+5A: A4A4
+5B: 8B8B
+5C: 9C9C
+5D: 101
+5E: 9C9C
+5F: 8B8B
+60: 8B8B
+61: 9C9C
+62: 8080
+63: 2727
+64: 9292
+65: 3434
+66: 2626
+67: F0F
+68: F8F8
+69: DEDE
+6A: F0F
+6B: CDCD
+6C: DFDF
+6D: CFCF
+6E: 808
+6F: CFCF
+70: DFDF
+71: CDCD
+72: DEDE
+73: 8A8A
+74: 9090
+75: 2F2F
+76: FCFC
+77: 2020
+78: 8B8B
+79: 9090
+7A: 2B2B
+7B: 3030
+7C: F9F9
+7D: 2020
+7E: 2020
+7F: FCFC
+80: FFFF
